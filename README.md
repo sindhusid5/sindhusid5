@@ -73,4 +73,4 @@
 
 ---
 
-*Open to full-stack, fintech, and blockchain roles in Toronto or remote 🌍*
+*Open to full-stack, fintech, and blockchain roles in Toronto, remote, or US companies 🌍*
