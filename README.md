@@ -2,7 +2,7 @@
 
 **Full-Stack Developer & Blockchain Engineer** based in Toronto 🇨🇦
 
-> Building production fintech and Web3 systems with 7+ years of experience across India, the UK, and Canada.
+> Building production fintech and Web3 systems with 5+ years of experience across India, the UK, and Canada.
 
 ---
 
@@ -66,8 +66,9 @@
 
 ### 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sindhuja-rajakkani)](https://www.linkedin.com/in/sindhuja-r-280948113/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sindhuja-r-280948113/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sindhuja.tq@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://sidz-cv.vercel.app/)
 [![Medium](https://img.shields.io/badge/Medium-000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@sindhujad6)
 
 ---
